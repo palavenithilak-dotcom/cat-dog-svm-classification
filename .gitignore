@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+cat_dog_svm_model.pkl
+.vscode/
+dataset/cats/*
+dataset/dogs/*
+!dataset/cats/.gitkeep
+!dataset/dogs/.gitkeep
